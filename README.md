@@ -2,7 +2,9 @@
 
 Repository for DTU NANOMADE deflection sensing.
 Development of sensory feedback system capable of detecting microscopic movements during assembly of 2D heterostructures.
+
 Hardware designed by Gustav Friis Fléron - s194009@dtu.dk / flerongustav@gmail.com
+
 Code (as of 30/11 - 2023) written by Gustav Friis Fléron - s194009@dtu.dk / flerongustav@gmail.com
 
 As of 30/11 - 2023 two main foldes have been added:
