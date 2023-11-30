@@ -1,0 +1,8 @@
+../Core/Src/custom_UI.c:16:9:count_digits	24	static
+../Core/Src/custom_UI.c:25:6:setup_std_graph	40	static
+../Core/Src/custom_UI.c:65:6:setup_graph	40	static
+../Core/Src/custom_UI.c:102:6:update_graph	112	dynamic
+../Core/Src/custom_UI.c:163:6:setup_menu	72	static
+../Core/Src/custom_UI.c:202:6:menu_scroll	16	static
+../Core/Src/custom_UI.c:221:6:display_USB_stream	32	static
+../Core/Src/custom_UI.c:234:6:rescale_arr	96	dynamic

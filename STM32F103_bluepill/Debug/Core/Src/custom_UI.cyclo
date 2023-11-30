@@ -1,0 +1,8 @@
+custom_UI.c:16:9:count_digits	2
+custom_UI.c:25:6:setup_std_graph	2
+custom_UI.c:65:6:setup_graph	2
+custom_UI.c:102:6:update_graph	6
+custom_UI.c:163:6:setup_menu	1
+custom_UI.c:202:6:menu_scroll	3
+custom_UI.c:221:6:display_USB_stream	1
+custom_UI.c:234:6:rescale_arr	14
