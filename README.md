@@ -6,8 +6,7 @@ Hardware designed by Gustav Friis Fléron - s194009@dtu.dk / flerongustav@gmail.
 Code (as of 30/11 - 2023) written by Gustav Friis Fléron - s194009@dtu.dk / flerongustav@gmail.com
 
 As of 30/11 - 2023 two main foldes have been added:
-SOFTWARE
-STM32F103_bluepill
+SOFTWARE and STM32F103_bluepill
 
 SOFTWARE contains python code for simple COM serial data capturing. 
 Goal is to write a custom .exe program to use with the STM32 system, capturing data, saving in .csv and displaying live graphing.
